@@ -2,7 +2,7 @@ package main
 
 import (
     "errors"
-    "test/rpc/pb"
+    "sise.com/protobuf"
 )
 
 // 算术运算结构体
